@@ -1,7 +1,7 @@
-# <Hello World> 👋
+# Hello World 👋
 
 # 💫 About Me:
-🎨 I'm a Frontend Developer & UI Designer<br>🧪 I'm currently learning JavaScript<br>🦸‍♂️ I'm looking for help on a Project<br>💬 Ask me about on my Instagram<br>
+👽 My name is Danildo Silva. I'm 24 yo<br>💙 In love with Programming since 2020<br><br>🎨 I'm a Frontend Developer & UI Designer<br>🧪 I'm currently learning JavaScript<br>🦸‍♂️ I'm looking for help on a Project<br>💬 Ask me about on my Instagram<br>
 
 
 ## 🌐 Socials:
@@ -20,9 +20,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DanildoSilva&icon=5&color=0)](https://visitcount.itsvg.in)
-
