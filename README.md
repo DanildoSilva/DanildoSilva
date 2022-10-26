@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=DanildoSilva&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DanildoSilva&icon=5&color=0)](https://visitcount.itsvg.in)
