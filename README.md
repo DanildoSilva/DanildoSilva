@@ -1,5 +1,6 @@
 # 💫 Hello World
 👽 My name is Danildo Silva. I'm 24 yo<br>💙 In love with Programming since 2020<br><br>🎨 I'm a Frontend Developer & UI Designer<br>🧪 I'm currently learning JavaScript<br>🦸‍♂️ I'm looking for help on a Project<br>💬 Ask me about Design<br>
+<img src="https://media.tenor.com/5WaRBVLqUGAAAAAi/discord-sticker.gif" width="50%" height="50%">
 
 
 ## 🌐 Socials:
