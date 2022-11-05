@@ -17,7 +17,7 @@
 ## 📊 My GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanildoSilva&theme=vue-dark&hide_border=true)](https://github.com/DanildoSilva/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=DanildoSilva&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DanildoSilva/DanildoSilva/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 ### ✍️ Random Dev Quote
