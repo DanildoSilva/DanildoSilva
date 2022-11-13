@@ -1,7 +1,14 @@
 ![MasterHead](banner.png)
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img align="right" width="220px" alt="Sticker" src="https://distok.top/stickers/749043879713701898/749054660769218631.gif">
-:octocat: I'm Danildo Silva. I'm 24 yo, based on Cape Verde<br>💙 In love with Programming since 2020<br><br>🎨 I'm a Frontend Developer & UI Designer<br>🔭 I’m currently working on a e-commerce website<br>🧪 I’m currently learning JavaScript<br>👯 I’m looking to collaborate on UI Design and CSS<br>💬 Ask me about Figma, HTML & CSS<br>📫 Reach me via <a href="mailto:danildosilva@proton.me">Email</a> or <a href="https://t.me/DanildoSilva">Telegram</a><br>
+:octocat: I'm Danildo Silva. I'm 24 yo, based on Cape Verde<br>
+❤️ In love with Programming since 2020<br><br>
+🎨 I'm a Frontend Developer & UI Designer<br>
+🚧 I’m currently working on a e-commerce website<br>
+🧪 I’m currently learning JavaScript<br>
+⛑️ I’m looking to collaborate on UI Design and CSS<br>
+💬 Ask me about Figma, HTML & CSS<br>
+📫 Reach me via <a href="mailto:danildosilva@proton.me">Email</a> or <a href="https://t.me/DanildoSilva">Telegram</a><br>
 <br>
 
 ## 🌐 Connect with Me:
