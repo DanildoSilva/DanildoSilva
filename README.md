@@ -1,7 +1,7 @@
 ![MasterHead](banner.png)
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World! 👋
 <img align="right" width="220px" alt="Sticker" src="https://distok.top/stickers/749043879713701898/749054660769218631.gif">
-:octocat: I'm Danildo Silva. I'm 24 yo, based on Cape Verde<br>
+:octocat: My name is Danildo Silva. I'm 24 yo, based on Cape Verde<br>
 ❤️ In love with Programming since 2020<br><br>
 🎨 I'm a Frontend Developer & UI Designer<br>
 🚧 I’m currently working on a e-commerce website<br>
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## 💻 Some tools I've used and Learned:
+## 🛸 Some technologies & tools I've used and Learned:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,github,vscode,figma,xd,photoshop,illustrator&theme=dark)](https://skills.thijs.gg)
 <br>
 <br>
