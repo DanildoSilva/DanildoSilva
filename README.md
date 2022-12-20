@@ -4,7 +4,6 @@
 :octocat: My name is Danildo Silva. I'm 24 yo, based on Cape Verde<br>
 ❤️ In love with Programming since 2020<br><br>
 🎨 I'm a Frontend Developer & UI Designer<br>
-🚧 I’m currently working on a e-commerce website<br>
 🧪 I’m currently learning JavaScript<br>
 ⛑️ I’m looking to collaborate on UI Design and CSS<br>
 💬 Ask me about Figma, HTML & CSS<br>
